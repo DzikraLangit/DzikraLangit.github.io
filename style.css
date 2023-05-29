@@ -1,10 +1,19 @@
 body{
-    min-height: 2000px
 }
 .jumbotron{
-    padding-top: 2rem;
-    background-color: #613613
+    background: url("img/met.png"); 
+    /* background-color: #613613; */
+    padding-top: 5rem;
+}
+#about{ 
+    padding-top: 5rem
 }
 #galery{
-    background-color: #613613
+    background: url("img/met.png"); 
+    padding-bottom:10rem
 }
+#contact{
+    background:url("img/met.png");
+    padding-top: 5rem
+}
+
